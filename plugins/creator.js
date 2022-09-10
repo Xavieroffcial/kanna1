@@ -20,18 +20,17 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 //------------ BIO
 let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
 let teksbio = `${htki} *BIODATA* ${htka}
-*ɴᴀᴍᴇ:* ⓊⒸⒽⒾⒽⒶ ⓃⒶⓇⓊⓉⓄ
-*ᴀɢᴇ:* 20ᵗʰ
-*sᴛᴀᴛᴜs:* single 
-
-*ʙɪʀᴛʜᴅᴀʏ:* 21 Des 2002
-*ᴀᴅᴅʀᴇss:* Indonesia, Jawa Barat, Bandung
-
-*- - sᴋɪʟʟs: - -* 
-> JavaScript [89.7%]
-> Python [13.4%]
-> CSS [5.1%]
-> Html [1.2%]
+${htjava} *💌 Nama* : ShiroNoMercy
+${htjava} *✉️ Nama RL* : Rama 
+${htjava} *♂️ Gender* : Boys
+${htjava} *🕋 Agama* : Hindu
+${htjava} *⏰ Tanggal lahir* : Private 🥶
+${htjava} *🎨 Umur* : 14
+${htjava} *🧮 Kelas* : 8
+${htjava} *🧩 Hobby* : Game, Tiktok
+${htjava} *💬 Sifat* : pendiem, gaada temanh, Prik, Nolep
+${htjava} *🗺️ Tinggal* : Indo, Bali, Jembrana, negara
+${htjava} *❤️ Waifu* : Raphatila, Filo, Shiroko, Queen, Kurumi, Elaina
 
 📷 *Instagram:* ${sig}
 🐈 *Github:* ${sgh}
