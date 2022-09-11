@@ -20,17 +20,18 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 //------------ BIO
 let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
 let teksbio = `${htki} *BIODATA* ${htka}
-${htjava} *💌 Nama* : ShiroNoMercy
-${htjava} *✉️ Nama RL* : Rama 
-${htjava} *♂️ Gender* : Boys
-${htjava} *🕋 Agama* : Hindu
-${htjava} *⏰ Tanggal lahir* : Private 🥶
-${htjava} *🎨 Umur* : 14
-${htjava} *🧮 Kelas* : 8
-${htjava} *🧩 Hobby* : Game, Tiktok
-${htjava} *💬 Sifat* : pendiem, gaada temanh, Prik, Nolep
-${htjava} *🗺️ Tinggal* : Indo, Bali, Jembrana, negara
-${htjava} *❤️ Waifu* : Raphatila, Filo, Shiroko, Queen, Kurumi, Elaina
+*ɴᴀᴍᴇ:* ShiroNoMercy
+*ᴀɢᴇ:* 14ᵗʰ
+*sᴛᴀᴛᴜs:* jombloh
+
+*ʙɪʀᴛʜᴅᴀʏ:* 1 September 2008
+*ᴀᴅᴅʀᴇss:* Indonesia, Bali, Jembrana
+
+*- - sᴋɪʟʟs: - -* 
+> JavaScript [89.7%]
+> Python [13.4%]
+> CSS [5.1%]
+> Html [1.2%]
 
 📷 *Instagram:* ${sig}
 🐈 *Github:* ${sgh}
