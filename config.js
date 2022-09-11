@@ -62,7 +62,7 @@ global.psaweria = '-'
 global.nomorbot = '6281336990781'
 global.nomorown = '6283862006229'
 global.namebot = 'Ϝιʅσ BOT'
-global.nameown = 'SkyxmoonOffc'
+global.nameown = 'ShiroNoMercy'
 
 
 /*============== STAFF ==============*/
@@ -70,7 +70,7 @@ global.owner = [
   ['6283862006229'],
   ['6283862006229'],
   ['18126338970'],
-  ['6283862006229', 'SkyxmoonOffc', true]
+  ['6283862006229', 'ShiroNoMercy', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
